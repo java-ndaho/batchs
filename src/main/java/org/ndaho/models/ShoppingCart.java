@@ -1,8 +1,7 @@
-package org.example.models;
+package org.ndaho.models;
 
 import java.util.HashSet;
 import java.util.Set;
-import org.example.models.Work;
 
 public class ShoppingCart {
     private Set<Work> items=new HashSet<>();

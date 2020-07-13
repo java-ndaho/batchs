@@ -1,4 +1,4 @@
-package org.example.models;
+package org.ndaho.models;
 
 public class Work {
     private String title;
